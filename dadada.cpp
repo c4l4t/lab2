@@ -1,4 +1,5 @@
-﻿#include <iostream>
+﻿https://github.com/c4l4t/lab2
+#include <iostream>
 #include <fstream>
 using namespace std;
 
